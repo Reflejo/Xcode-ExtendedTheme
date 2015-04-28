@@ -37,6 +37,7 @@ Example:
 </dict>
 ```
 
+You can also [download my full dvtcolortheme](/../gh-pages/Fz (Based on ego).dvtcolortheme?raw=true)
 ##Screenshots
 
 ![screenshot](/../gh-pages/screenshot-assets.png?raw=true)
