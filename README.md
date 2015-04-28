@@ -1,7 +1,7 @@
 ExtendedTheme
 ===============
 
-An Xcode IDE Plugin that extends the Themes capabilities.
+An Xcode IDE Plugin that extends Xcode themes capabilities.
 
 ### Installation and Usage
 
