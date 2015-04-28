@@ -36,3 +36,8 @@ Example:
 	<string>1.0 1.0 1.0 1</string>
 </dict>
 ```
+
+##Screenshots
+
+![screenshot](/../gh-pages/screenshot-assets.png?raw=true)
+![screenshot](/../gh-pages/screenshot-storyboard.png?raw=true)
