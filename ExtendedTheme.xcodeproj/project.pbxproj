@@ -42,6 +42,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26D0F7EE1AEF8CC000B9666F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				76312E5C19F260F1006D29E5 /* FZExtendedTheme.h */,
+				76312E5D19F260F1006D29E5 /* FZExtendedTheme.m */,
+				76312E5F19F26264006D29E5 /* NSView+ExtendedTheme.h */,
+				76312E6019F26264006D29E5 /* NSView+ExtendedTheme.m */,
+				26D9B47E1AEF2135003ACD81 /* NSColor+ExtendedTheme.h */,
+				26D9B47F1AEF2135003ACD81 /* NSColor+ExtendedTheme.m */,
+				26EE4EF61AEF5F06006BA748 /* NSTextField+ExtendedTheme.h */,
+				26EE4EF71AEF5F06006BA748 /* NSTextField+ExtendedTheme.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		76312E4719F26008006D29E5 = {
 			isa = PBXGroup;
 			children = (
@@ -61,14 +76,7 @@
 		76312E5219F26008006D29E5 /* ExtendedTheme */ = {
 			isa = PBXGroup;
 			children = (
-				76312E5C19F260F1006D29E5 /* FZExtendedTheme.h */,
-				76312E5D19F260F1006D29E5 /* FZExtendedTheme.m */,
-				76312E5F19F26264006D29E5 /* NSView+ExtendedTheme.h */,
-				76312E6019F26264006D29E5 /* NSView+ExtendedTheme.m */,
-				26D9B47E1AEF2135003ACD81 /* NSColor+ExtendedTheme.h */,
-				26D9B47F1AEF2135003ACD81 /* NSColor+ExtendedTheme.m */,
-				26EE4EF61AEF5F06006BA748 /* NSTextField+ExtendedTheme.h */,
-				26EE4EF71AEF5F06006BA748 /* NSTextField+ExtendedTheme.m */,
+				26D0F7EE1AEF8CC000B9666F /* Classes */,
 				76312E5319F26008006D29E5 /* Supporting Files */,
 			);
 			path = ExtendedTheme;
@@ -82,7 +90,7 @@
 				76312E6219F262C1006D29E5 /* JRSwizzle.h */,
 				76312E6319F262C1006D29E5 /* JRSwizzle.m */,
 			);
-			name = "Supporting Files";
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
